@@ -1,0 +1,1 @@
+/Users/mgrecu/GPM/Poster2023/scattTablesW.nc
